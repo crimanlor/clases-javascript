@@ -33,7 +33,6 @@ class DNI {
         const number = parseInt(this.numero);
         const i = number % 23
         return words[i];
-
     }
 }
 
